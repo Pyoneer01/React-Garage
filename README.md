@@ -6,7 +6,7 @@ Welcome to my React application, where car enthusiasts can explore brief descrip
 
 - **View Car Descriptions**: Discover brief information about different cars.
 - **Listen to Rev Notes**: Enjoy the authentic sounds of car engines.
-- **Customize the app**: You can add your own cars and delete the ones you don't need, to create a your own customized version.
+- **Customize the app**: You can add your own cars and delete the ones you don't need, to create a your own customized version, by editing the cars.js file.
 
 ## Getting Started
 
