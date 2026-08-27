@@ -22,7 +22,6 @@ Make sure you have the following installed on your local system:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Pyoneer01/React-Garage.git
-    cd React-Garage
     ```
 
 3. **Install dependencies:**
